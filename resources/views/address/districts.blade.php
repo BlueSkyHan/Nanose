@@ -1,0 +1,1 @@
+{!! Form::select('district_id', array(''=>'请选择区县') + $districts, null, array('id'=>'districts', 'class'=>'form-control')) !!}

@@ -1,0 +1,1 @@
+{!! Form::select('city_id', array(''=>'请选择省份') + $provinces, null, array('class'=>'form-control')) !!}

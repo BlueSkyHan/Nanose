@@ -1,0 +1,1 @@
+{!! Form::select('sales_channels', array(''=>'') + $salesChannels, null, array('class'=>'form-control input-sm')) !!}

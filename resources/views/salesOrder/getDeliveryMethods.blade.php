@@ -1,0 +1,1 @@
+{!! Form::select('delivery_method', array(''=>'') + $deliveryMethods, null, array('class'=>'form-control input-sm')) !!}

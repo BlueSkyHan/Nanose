@@ -1,0 +1,1 @@
+{!! Form::select('member_from', array(''=>'') + $memberFroms, null, array('class'=>'form-control input-sm')) !!}

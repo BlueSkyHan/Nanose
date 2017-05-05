@@ -1,0 +1,1 @@
+{!! Form::select('payment_method', array(''=>'') + $paymentMethods, null, array('class'=>'form-control input-sm')) !!}
